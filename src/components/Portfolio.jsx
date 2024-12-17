@@ -11,7 +11,7 @@ const Portfolio = ({activeSection}) => {
         {activeSection === 'portfolio' && (
                 <section className= "container active" id="portfolio">
                     <div className="main-title">
-                        <h2>My <span>Portfolio</span><span className="bg-text">My Work</span></h2>
+                        <h2 id='main-h2'>My <span>Portfolio</span><span className="bg-text">My Work</span></h2>
                     </div>
                     <p className="port-text">
                         Here is some of my work that I've done in various programming languages.

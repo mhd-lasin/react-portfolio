@@ -155,7 +155,7 @@ const About = ({activeSection}) => {
                                 <i className="fas fa-briefcase"></i>
                             </div>
                             <p className="tl-duration">2022 - 2023</p>
-                            <h5>Business Degree<span> - LCC COMPUTER EDUCATION</span></h5>
+                            <h5>Python development<span> - LCC COMPUTER EDUCATION</span></h5>
                             <p>
                                 Successfully completed a comprehensive course in Python Full Stack Web Development. The program covered Front-End Development, Back-End Proficiency, Database Management, API Development and Project Deployment.
                             </p>

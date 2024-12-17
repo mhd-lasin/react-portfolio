@@ -50,6 +50,10 @@
         }
     }
 
+    #about {
+        margin-top: 2rem;
+    }
+
     .about-container{
         grid-template-columns: repeat(1, 1fr);
         .right-about{
@@ -78,11 +82,22 @@
             grid-template-columns: repeat(1, 1fr);
         }
     }
+    
+
+    #portfolio .main-title .bg-text {
+        position: absolute;
+        top: 25%;
+        bottom: -22%;
+    }
 
     .portfolios{
         grid-template-columns: repeat(1, 1fr);
         padding-bottom: 6rem;
         margin-top: 1rem;
+    }
+
+    #blogs {
+        margin-top: 2rem;
     }
 
     .blogs{
@@ -91,6 +106,7 @@
     }
 
     .contact-content-con{
+        margin-top: -3.5rem;
         flex-direction: column;
         .right-contact{
             margin-left: 0;
