@@ -32,7 +32,7 @@ const App = () => {
                 <p>
                     I’m a passionate Full Stack Developer specializing in building scalable, user-friendly web applications. With expertise in React for crafting dynamic front-end experiences and Python frameworks like Django and FastAPI for robust back-end solutions, I bridge the gap between elegant design and efficient functionality.</p>
                 <div className="btn-con">
-                    <a href="/Muhamed-Lasin-Resume.pdf" className="main-btn">
+                    <a href="/Muhamed-Lasin.pdf" className="main-btn">
                         <span className="btn-text">Download CV</span>
                         <span className="btn-icon"><i className="fas fa-download"></i></span>
                     </a>

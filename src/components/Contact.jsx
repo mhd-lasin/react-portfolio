@@ -88,7 +88,7 @@ const Contact = ({activeSection}) => {
                                 <textarea name="" id="" cols="15" rows="8" placeholder="Message Here..."></textarea>
                             </div>
                             <div className="submit-btn">
-                                <a href="/Muhamed-Lasin-Resume.pdf" className="main-btn">
+                                <a href="/Muhamed-Lasin.pdf" className="main-btn">
                                     <span className="btn-text">Download CV</span>
                                     <span className="btn-icon"><i className="fas fa-download"></i></span>
                                 </a>
